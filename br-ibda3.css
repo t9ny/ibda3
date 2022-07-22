@@ -3,4 +3,24 @@
 	}
 
  /*-----ModernBB-----*/ .footerbar-system li a[href^="http://www.ahlablog."] {display:none} .footerbar-system li a[href^="http://www.xn--"] {display:none} .footerbar-system li a[href^="https://www.ahlamontada.com/"] {display:none} .footerbar-system li a[href^="https://help.ahlamontada.com/"] {display:none} .footerbar-system a, .footerbar-user a {padding: 0px 20px 0px 0px;} .footerbar-system .rightside { color: #2C353B; } /*-----ModernBB-----*/
- .forumtitle li a[href^="https://ibda3point.ahlamontada.com/f8-montada"] {display:none}
+ .forumtitle a[href^="https://ibda3point.ahlamontada.com/f8-montada"] {display:none}
+a:link
+{
+text-decoration: none;
+}
+a:visited
+{
+text-decoration: none;
+}
+a:active
+{
+text-decoration: none;
+}
+a:hover
+{
+text-decoration: none;
+}
+a.forumlink:hover
+{
+text-decoration:none;
+}
