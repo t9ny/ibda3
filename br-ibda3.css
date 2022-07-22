@@ -1,7 +1,9 @@
 #desc br:last-child {
   	display: none;
 	}
-
+.trc_related_container {display: none;}
+div.smartbanner-container, div.smartbanner.smartbanner-android {display:none} html.smartbanner-show {margin-top: 0px;}
+div[style="overflow:visible"], div[style="padding:0"] {display: none;}
  /*-----ModernBB-----*/ .footerbar-system li a[href^="http://www.ahlablog."] {display:none} .footerbar-system li a[href^="http://www.xn--"] {display:none} .footerbar-system li a[href^="https://www.ahlamontada.com/"] {display:none} .footerbar-system li a[href^="https://help.ahlamontada.com/"] {display:none} .footerbar-system a, .footerbar-user a {padding: 0px 20px 0px 0px;} .footerbar-system .rightside { color: #2C353B; } /*-----ModernBB-----*/
  .forumtitle a[href^="https://ibda3point.ahlamontada.com/f8-montada"] {display:none}
 a:link
